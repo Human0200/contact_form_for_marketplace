@@ -257,12 +257,13 @@ class ContactFormLibrary {
                     border-radius: 20px;
                     padding: 40px;
                     width: 90%;
-                    max-width: 480px;
+                    max-width: 600px;
                     box-shadow: 0 25px 50px rgba(0, 0, 0, 0.25);
                     border: 1px solid ${borderColor};
                     animation: slideUp 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
                     transform-origin: center;
                     max-height: 900px;
+                    overflow-y: auto;
                 }
                 
                 /* Шапка формы */
