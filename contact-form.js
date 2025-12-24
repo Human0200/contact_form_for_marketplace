@@ -196,7 +196,7 @@ class ContactFormLibrary {
                             <div class="privacy-notice">
                                 <input type="checkbox" id="privacyAgreement" required>
                                 <label for="privacyAgreement">
-                                    Я согласен на обработку персональных данных в соответствии с <a href="https://app.lead-space.ru/privacy.html" target="_blank">Политикой конфиденциальности</a>
+                                    Я согласен на обработку персональных данных в соответствии с <a href="https://app.lead-space.ru/privacy.html?app_code=leadspace.robot_find_file&app_name=Сохранение файла из результата задачи в элемент CRM" target="_blank">Политикой конфиденциальности</a>
                                 </label>
                                 <div class="error-message"></div>
                             </div>
